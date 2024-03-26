@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Chatify</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="retype_pass">Retype Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">SIGNUP</string>
+    <string name="exit">EXIT</string>
+    <string name="title">GUI DEMO (21L-5293)</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="post">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">followings</string>
+    <string name="cpost">20</string>
+    <string name="cfollowers">65</string>
+    <string name="cfollowing">101</string>
+    <string name="editpro">Edit Profile</string>
+    <string name="name">Name Here</string>
+    <string name="username">username</string>
+    <string name="bio">Bio Here</string>
+    <string name="link">Link Here</string>
+    <string name="fragone">Fragment One</string>
+    <string name="fragtwo">Fragment Two</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
